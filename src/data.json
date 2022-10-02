@@ -2,7 +2,6 @@
   "data": {
     "budgetStatus": [
       {
-        "iteamId": 1,
         "description": "Finance Budget",
         "name": "Finance Budget",
         "type": "DBU",
@@ -13,7 +12,6 @@
         "actions": ["TRENDS", "CHARGEBACK", "OPTIMISE"]
       },
       {
-        "iteamId": 2,
         "description": "Finance Budget",
         "name": "Finance Budget",
         "type": "DBU",
