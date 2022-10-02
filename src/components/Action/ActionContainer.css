@@ -1,0 +1,14 @@
+.action-item-container {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 5px;
+}
+
+.action-item-container .action-item {
+  padding: 2px 5px 2px 5px;
+  background: black;
+  color: white;
+  border-radius: 10px;
+}

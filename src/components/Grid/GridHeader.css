@@ -1,0 +1,9 @@
+.grid-header {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  background-color: rgb(221, 216, 216);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}

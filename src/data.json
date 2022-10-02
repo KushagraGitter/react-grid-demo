@@ -1,0 +1,28 @@
+{
+  "data": {
+    "budgetStatus": [
+      {
+        "iteamId": 1,
+        "description": "Finance Budget",
+        "name": "Finance Budget",
+        "type": "DBU",
+        "period": "MONTHLY",
+        "startDate": "MARCH 22",
+        "endDate": "JUNE 2022",
+        "scope": "Global",
+        "actions": ["TRENDS", "CHARGEBACK", "OPTIMISE"]
+      },
+      {
+        "iteamId": 2,
+        "description": "Finance Budget",
+        "name": "Finance Budget",
+        "type": "DBU",
+        "period": "MONTHLY",
+        "startDate": "MARCH 22",
+        "endDate": "JUNE 2022",
+        "scope": "Global",
+        "actions": ["TRENDS", "CHARGEBACK", "OPTIMISE"]
+      }
+    ]
+  }
+}
